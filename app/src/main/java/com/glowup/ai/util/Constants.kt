@@ -8,8 +8,8 @@ object Constants {
     // Direct Regional Endpoint (Usually faster and more reliable)
     const val YOUCAM_BASE_URL = "https://yce-api-01.makeupar.com/s2s/v2.0"
     
-    const val YOUCAM_API_KEY = "sk-IACOP9AjA5idjYl8DUeXbzt9xDzbrjkCqx_d16omgZARU2YKWMx0VaNIAuNTHSpe"
-    const val YOUCAM_SECRET_KEY = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCSMTvXnkU3bstzZmF0YYYpf4SehvS/TcHBCrA4pmo99WnrbW1STI9LjfZTEDOcA9dg1bQVPpJftWG8dJFtwtXXgoMHo3PIThyYgUdSmBasAxB8X6TAzis9aBnFERJawgaDvcbEpbnbNt+fHD9CDzuR9XvXGcQ4ljl8CXP4Jx9sBQIDAQAB"
+    const val YOUCAM_API_KEY = "YOUR_YOUCAM_API_KEY_HERE"
+    const val YOUCAM_SECRET_KEY = "YOUR_YOUCAM_SECRET_KEY_HERE"
 
     // Legacy Config
     const val BASE_URL = "http://localhost:3000" 
