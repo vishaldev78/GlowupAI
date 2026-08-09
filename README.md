@@ -10,17 +10,15 @@ GlowUp AI is a high-end, professional fashion application that leverages advance
 
 ## 📸 Screen Previews
 
-| **Onboarding** | **AI Studio** | **Style Results** |
+| **Splash & Onboarding** | **Home & Studio** | **AI Results** |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/onboarding.png" width="250"> | <img src="docs/screenshots/studio.png" width="250"> | <img src="docs/screenshots/results.png" width="250"> |
-
-*Note: Screenshots can be added by placing PNG files in the `docs/screenshots/` folder.*
+| <img src="docs/screenshots/splash.png" width="200"> <img src="docs/screenshots/onboarding1.png" width="200"> | <img src="docs/screenshots/home.png" width="200"> <img src="docs/screenshots/studio.png" width="200"> | <img src="docs/screenshots/result1.png" width="200"> <img src="docs/screenshots/result2.png" width="200"> |
 
 ---
 
 ## 🌟 Key Features
 
-- **🚀 AI Style Studio**: Instantly try on tops, bottoms, dresses, and shoes using state-of-the-art AI.
+- **🚀 AI Style Studio**: Instantly try on tops, bottoms, dresses, and shoes using the powerful **YouCam AI API**.
 - **📁 Digital Closet**: Upload your own garment photos and see how they look on you instantly.
 - **✨ Professional UI**: Minimalist, high-contrast white theme designed for a premium user experience.
 - **📷 HD Studio Mode**: High-resolution camera integration with easy one-handed controls.
@@ -32,7 +30,7 @@ GlowUp AI is a high-end, professional fashion application that leverages advance
 
 - **Core**: Kotlin & Jetpack Compose (Modern Declarative UI)
 - **Architecture**: MVVM with Clean Architecture principles
-- **AI Engine**: YouCam API v2.0 S2S Integration
+- **AI Engine**: **YouCam API v2.0 S2S Integration**
 - **Backend**: Firebase Storage (Image assets) & Firestore
 - **Camera**: CameraX (HD capture & life-cycle aware)
 - **Image Loading**: Coil (Optimized image caching)
