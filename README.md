@@ -10,9 +10,9 @@ GlowUp AI is a high-end, professional fashion application that leverages advance
 
 ## 📸 Screen Previews
 
-| **Splash & Onboarding** | **Home & Studio** | **AI Results** |
+| **Home & Studio** | **AI Try-On Result** | **Onboarding & Profile** |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/splash.png" width="200"> <img src="docs/screenshots/onboarding1.png" width="200"> | <img src="docs/screenshots/home.png" width="200"> <img src="docs/screenshots/studio.png" width="200"> | <img src="docs/screenshots/result1.png" width="200"> <img src="docs/screenshots/result2.png" width="200"> |
+| <img src="acf8086c-cb14-464f-8058-330bd952f2fb.png" width="200"> <img src="b5154388-257c-4bf3-9d10-a1a4becab00c.jpeg" width="200"> | <img src="c308921d-ba1d-4877-8c9e-52a41e5137ed.jpeg" width="200"> <img src="d8591064-a068-4fe2-ab3a-9e6f2358dfbd.jpeg" width="200"> | <img src="f396399d-ec4c-420c-ec4a-ea45e3dbd279.jpeg" width="200"> <img src="ef726ca0-1f87-4038-aa92-f96d69a22e59.jpeg" width="200"> |
 
 ---
 
