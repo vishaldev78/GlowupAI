@@ -6,6 +6,19 @@
 
 GlowUp AI is a high-end, professional fashion application that leverages advanced Artificial Intelligence to provide instant virtual try-ons. Experience the future of shopping and personal styling directly from your smartphone.
 
+
+---
+
+## 📺 Demo Video
+
+Check out the app in action:
+
+[![GlowUp AI Demo](https://img.youtube.com/vi/GBx2LAvO1cg/0.jpg)](https://www.youtube.com/watch?v=GBx2LAvO1cg)
+
+*Click the image above to watch the demo on YouTube.*
+
+---
+
 ---
 
 ## 📸 Screen Previews
@@ -38,17 +51,6 @@ GlowUp AI is a high-end, professional fashion application that leverages advance
   <img src="mockup/45fe3606-ed5d-4bd9-98b2-65b3871f1de8.jpeg" width="220" />
 </p>
 
----
-
-## 📺 Demo Video
-
-Check out the app in action:
-
-[![GlowUp AI Demo](https://img.youtube.com/vi/GBx2LAvO1cg/0.jpg)](https://www.youtube.com/watch?v=GBx2LAvO1cg)
-
-*Click the image above to watch the demo on YouTube.*
-
----
 
 ## 🌟 Key Features
 
