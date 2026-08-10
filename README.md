@@ -68,6 +68,8 @@ Make fashion shopping more visual, personal, and confident:
 
 ---
 
+## Click below link to Install APK & try your Android Phone 
+ <a href="https://github.com/vishaldev78/GlowupAI/releases/download/glowup/GlowUpAI.apk?">Download APK</a>
 ## ✨ Features
 
 ### 👗 AI Virtual Try-On
