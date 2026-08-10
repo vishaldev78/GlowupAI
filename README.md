@@ -53,7 +53,8 @@ Make fashion shopping more visual, personal, and confident:
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo Video
+
 
 <p align="center">
   <a href="https://youtu.be/GBx2LAvO1cg?si=t0XR2wQbkVRT7mQ3" target="_blank">
